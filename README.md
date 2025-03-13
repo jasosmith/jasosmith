@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🔭 I’m currently working on projects to use LLMs in instruction.
+
+🔭 I’m currently working on projects to use LLMs to support legal and policy research.
+
+💬 Ask me about road cycling.....🚲 🚲 🚲
+
 <!--
 **jasosmith/jasosmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
